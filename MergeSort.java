@@ -1,6 +1,6 @@
 import java.util.Arrays;
 public class MergeSort implements SortingAlgorithm {
-
+	
 	public void sort(int [] a) {
 		/* Start and ending indexes of original array a */
 		int left = 0;
